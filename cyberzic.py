@@ -14,7 +14,7 @@ vipro = LINETCR.LINE()
 #vipro.login(qr=True)
 vipro.login(token='cfAbWdF9FH7dk99J446CZ+H9IuJxKMnF9ueah/KA81X/+pTPiALdPTxH4GbG89slJEQPurXk85ri/fj7exNM3NN8JX56NlqbU2eHniR+i9/bhmBP41HYuzoUDHBVRNU6zPnaZqvhrUd7tDbbxuL2twdB04t89/1O/w1cDnyilFU=')
 vipro.loginResult()
-print "LGS-Login Success\n\n=====[Login>>>Done]====="
+print "Cyber-Login Success\n\n=====[Sukses Login]====="
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
